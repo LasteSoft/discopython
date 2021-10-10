@@ -54,12 +54,12 @@ packages = [
     'discord.ext.tasks',
 ]
 
-setup(name='discord.py',
+setup(name='discopython',
       author='aroko1&gx1285',
       url='https://github.com/TeaAroko/discopython',
       project_urls={
-        "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
+        "Documentation": "https://discopython.readthedocs.io/en/latest/",
+        "Issue tracker": "https://github.com/TeaAroko/discopython/issues",
       },
       version=version,
       packages=packages,
