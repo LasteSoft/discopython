@@ -55,8 +55,8 @@ packages = [
 ]
 
 setup(name='discord.py',
-      author='Rapptz',
-      url='https://github.com/Rapptz/discord.py',
+      author='aroko1&gx1285',
+      url='https://github.com/TeaAroko/discopython',
       project_urls={
         "Documentation": "https://discordpy.readthedocs.io/en/latest/",
         "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
@@ -64,7 +64,7 @@ setup(name='discord.py',
       version=version,
       packages=packages,
       license='MIT',
-      description='A Python wrapper for the Discord API',
+      description='Discord.py Fork',
       long_description=readme,
       long_description_content_type="text/x-rst",
       include_package_data=True,
