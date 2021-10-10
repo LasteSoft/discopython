@@ -1,5 +1,6 @@
 """
 The MIT License (MIT)
+
 Copyright (c) 2021 DisBotcreate
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -39,7 +40,7 @@ class InteractionContext:
     .. versionadded:: 2.0
     """
 
-    def __init__(self, bot: "discord.Bot", interaction: Interaction):
+    def __init__(self, bot: "discord.slash", interaction: Interaction):
         self.bot = bot
         self.interaction = interaction
 
@@ -88,4 +89,3 @@ class InteractionContext:
     @property
     def followup(self):
         return self.interaction.followup
-
