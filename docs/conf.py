@@ -49,7 +49,7 @@ autodoc_typehints = 'none'
 # napoleon_attr_annotations = False
 
 extlinks = {
-    'issue': ('https://github.com/Rapptz/discord.py/issues/%s', 'GH-'),
+    'issue': ('https://github.com/LasteSoft/discopython/issues/%s', 'GH-'),
 }
 
 # Links used for cross-referencing stuff in other documentation
@@ -79,8 +79,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'discord.py'
-copyright = '2015-present, Rapptz'
+project = 'discopython'
+copyright = '2021-present, LasteSoft'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -167,10 +167,10 @@ html_context = {
 }
 
 resource_links = {
-  'discord': 'https://discord.gg/r3sSKJJ',
-  'issues': 'https://github.com/Rapptz/discord.py/issues',
-  'discussions': 'https://github.com/Rapptz/discord.py/discussions',
-  'examples': f'https://github.com/Rapptz/discord.py/tree/{branch}/examples',
+  'discord': 'https://discord.gg/aCYaG6h4',
+  'issues': 'https://github.com/LasteSoft/discopython/issues',
+  'discussions': 'https://github.com/LasteSoft/discopython/discussions',
+  'examples': f'https://github.com/LasteSoft/discopython/tree/{branch}/examples',
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -271,7 +271,7 @@ html_js_files = [
 ]
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'discord.pydoc'
+htmlhelp_basename = 'discopythondoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -293,8 +293,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'discord.py.tex', 'discord.py Documentation',
-   'Rapptz', 'manual'),
+  ('index', 'discopython.tex', 'discopython Documentation',
+   'LasteSoft', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -323,8 +323,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'discord.py', 'discord.py Documentation',
-     ['Rapptz'], 1)
+    ('index', 'discopython', 'discopython Documentation',
+     ['LasteSoft'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -337,8 +337,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'discord.py', 'discord.py Documentation',
-   'Rapptz', 'discord.py', 'One line description of project.',
+  ('index', 'discord.py', 'discopython Documentation',
+   'LasteSoft', 'discopython', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -357,5 +357,5 @@ texinfo_documents = [
 def setup(app):
   if app.config.language == 'ja':
     app.config.intersphinx_mapping['py'] = ('https://docs.python.org/ja/3', None)
-    app.config.html_context['discord_invite'] = 'https://discord.gg/nXzj3dg'
-    app.config.resource_links['discord'] = 'https://discord.gg/nXzj3dg'
+    app.config.html_context['discord_invite'] = 'https://discord.gg/aCYaG6h4'
+    app.config.resource_links['discord'] = 'https://discord.gg/aCYaG6h4'
