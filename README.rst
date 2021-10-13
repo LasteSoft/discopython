@@ -1,5 +1,5 @@
 discopython
-==========
+==============
 
 .. image:: https://discord.com/api/guilds/896306326232264706/embed.png
    :target: https://discord.gg/h5mBs8bJTy
