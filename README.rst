@@ -10,6 +10,9 @@ discopython
 .. image:: https://img.shields.io/pypi/pyversions/discopython.svg
    :target: https://pypi.python.org/pypi/discopython
    :alt: PyPI supported Python versions
+.. image:: https://readthedocs.org/projects/discopython/badge/?version=latest
+   :target: https://discopython.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
