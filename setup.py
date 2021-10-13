@@ -55,7 +55,7 @@ packages = [
 ]
 
 setup(name='discopython',
-      author='aroko1&gx1285',
+      author='LasteSoft',
       author_email='huda724@xmailer.be',
       url='https://github.com/TeaAroko/discopython',
       project_urls={
