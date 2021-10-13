@@ -10,7 +10,7 @@ A basic wrapper for the Discord API.
 """
 
 __title__ = 'discord'
-__author__ = 'Aroko1&gx1285'
+__author__ = 'Leste Soft'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015-present Dis Bot Create'
 __version__ = '2.0.0'
