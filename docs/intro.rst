@@ -24,16 +24,16 @@ Installing
 
 You can get the library directly from PyPI: ::
 
-    python3 -m pip install -U discord.py
+    python3 -m pip install -U discopython
 
 If you are using Windows, then the following should be used instead: ::
 
-    py -3 -m pip install -U discord.py
+    py -3 -m pip install -U discopython
 
 
 To get voice support, you should use ``discord.py[voice]`` instead of ``discord.py``, e.g. ::
 
-    python3 -m pip install -U discord.py[voice]
+    python3 -m pip install -U discopython[voice]
 
 On Linux environments, installing voice requires getting the following dependencies:
 
@@ -84,7 +84,7 @@ However, for the quick and dirty:
 
     .. code-block:: shell
 
-        $ pip install -U discord.py
+        $ pip install -U discopython
 
 Congratulations. You now have a virtual environment all set up.
 
