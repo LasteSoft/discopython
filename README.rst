@@ -1,8 +1,8 @@
 discopython
 ==============
 
-.. image:: https://discord.com/api/guilds/896306326232264706/embed.png
-   :target: https://discord.gg/h5mBs8bJTy
+.. image:: https://discord.com/api/guilds/898698330618613850/embed.png
+   :target: https://discord.gg/T6Tz4wZkfE
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discopython.svg
    :target: https://pypi.python.org/pypi/discopython
@@ -115,5 +115,5 @@ Links
 ------
 
 - `Documentation <https://discopython.readthedocs.io/en/latest/index.html>`_
-- `Official Discord Server <https://discord.gg/h5mBs8bJTy>`_
+- `Official Discord Server <https://discord.gg/T6Tz4wZkfE>`_
 - `Discord API <https://discord.gg/discord-api>`_
