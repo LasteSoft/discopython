@@ -5,6 +5,7 @@ Discord API Wrapper
 A basic wrapper for the Discord API.
 
 :copyright: (c) 2015-present Rapptz
+:copyright: (c) 2021-present LesteSoft
 :license: MIT, see LICENSE for more details.
 
 """
@@ -59,7 +60,7 @@ from .stage_instance import *
 from .interactions import *
 from .components import *
 from .threads import *
-
+from .yttogether import *
 
 class VersionInfo(NamedTuple):
     major: int
