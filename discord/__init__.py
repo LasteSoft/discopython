@@ -5,13 +5,13 @@ Discord API Wrapper
 A basic wrapper for the Discord API.
 
 :copyright: (c) 2015-present Rapptz
-:copyright: (c) 2021-present LesteSoft
+:copyright: (c) 2021-present LasteSoft
 :license: MIT, see LICENSE for more details.
 
 """
 
 __title__ = 'discord'
-__author__ = 'LesteSoft'
+__author__ = 'LasteSoft'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-present LasteSoft'
 __version__ = '2.0.0'
