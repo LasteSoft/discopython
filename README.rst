@@ -16,6 +16,7 @@ discopython
 .. image:: https://static.pepy.tech/badge/discopython
    :target: https://pepy.tech/project/discopython
    :alt: Total downloads
+
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
 
