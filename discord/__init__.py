@@ -14,7 +14,7 @@ __title__ = 'discord'
 __author__ = 'LasteSoft'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-present LasteSoft'
-__version__ = '2.0.2'
+__version__ = '2.0.3'
 
 __path__ = __import__('pkgutil').extend_path(__path__, __name__)
 
@@ -60,7 +60,6 @@ from .stage_instance import *
 from .interactions import *
 from .components import *
 from .threads import *
-from .yttogether import *
 
 class VersionInfo(NamedTuple):
     major: int
