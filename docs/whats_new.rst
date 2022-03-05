@@ -21,6 +21,10 @@ New Features
 
 - API v10 is now supported.
 
+Miscellaneous
+~~~~~~~~~~~~~~
+youtube together removed.
+Change user agent.
 
 .. _vp2p0p1:
 
