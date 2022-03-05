@@ -13,6 +13,13 @@ in specific versions.
 
 .. _vp2p0p2:
 
+v2.0.3
+-------
+
+Miscellaneous
+~~~~~~~~~~~~~~
+- Removed discord-ext-native-voice.
+
 v2.0.2
 -------
 
@@ -23,8 +30,8 @@ New Features
 
 Miscellaneous
 ~~~~~~~~~~~~~~
-youtube together removed.
-Change user agent.
+- youtube together removed.
+- Change user agent.
 
 .. _vp2p0p1:
 
