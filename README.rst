@@ -57,7 +57,7 @@ To install the development version, do the following:
 
 .. code:: sh
 
-    $ git clone https://github.com/TeaAroko/discopython
+    $ git clone https://github.com/LasteSoft/discopython
     $ cd discopython
     $ python3 -m pip install -U .[voice]
 
