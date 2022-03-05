@@ -3,7 +3,7 @@
 API Reference
 ===============
 
-The following section outlines the API of discord.py.
+The following section outlines the API of discopython.
 
 .. note::
 
@@ -11,7 +11,7 @@ The following section outlines the API of discord.py.
     in an output independent way.  If the logging module is not configured,
     these logs will not be output anywhere.  See :ref:`logging_setup` for
     more information on how to set up and use the logging module with
-    discord.py.
+    discopython.
 
 Version Related Info
 ---------------------
