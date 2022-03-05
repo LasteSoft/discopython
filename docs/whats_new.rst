@@ -11,6 +11,40 @@ Changelog
 This page keeps a detailed human friendly rendering of what's new and changed
 in specific versions.
 
+.. _vp2p0p2:
+
+v2.0.2
+-------
+
+New Features
+~~~~~~~~~~~~~
+
+- API v10 is now supported.
+
+
+.. _vp2p0p1:
+
+v2.0.1
+-------
+
+Add Extentions
+~~~~~~~~~~~~~~~
+
+- discord.ext.menus Plus
+- discord.ext.native_voice Plus
+
+
+.. _vp2p0p0:
+
+v2.0.0
+-------
+
+Add Extentions
+~~~~~~~~~~~~~~~
+
+- Does not support slash command
+- Added Buttons etc.
+
 .. _vp1p7p3:
 
 v1.7.3
