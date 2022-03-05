@@ -9,7 +9,7 @@ Welcome to discopython
 .. image:: /images/snake.svg
 .. image:: /images/snake_dark.svg
 
-discordpython Is a Discord.py's Forked Version.
+discopython Is a Discord.py's Forked Version.
 
 **Features:**
 
