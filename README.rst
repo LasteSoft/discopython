@@ -1,22 +1,8 @@
-discopython
+discopython(End of development)
 ==============
 
-.. image:: https://discord.com/api/guilds/898698330618613850/embed.png
-   :target: https://discord.gg/T6Tz4wZkfE
-   :alt: Discord server invite
-.. image:: https://img.shields.io/pypi/v/discopython.svg
-   :target: https://pypi.python.org/pypi/discopython
-   :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/discopython.svg
-   :target: https://pypi.python.org/pypi/discopython
-   :alt: PyPI supported Python versions
-.. image:: https://readthedocs.org/projects/discopython/badge/?version=latest
-   :target: https://discopython.readthedocs.io/en/latest/?badge=latest
-   :alt: Documentation Status
-.. image:: https://static.pepy.tech/badge/discopython
-   :target: https://pepy.tech/project/discopython
-   :alt: Total downloads
-
+A new Discord API wrapper will be announced soon.
+====================
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
 
