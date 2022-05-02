@@ -1,7 +1,9 @@
 discopython(End of development)
 ==============
 
-A new Discord API wrapper will be announced soon.
+We are pleased to announce a new project. It is called "disbot.py".
+====================
+disbot.py is not a Fork project of discord.py.
 ====================
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
