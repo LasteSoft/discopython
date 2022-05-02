@@ -1,10 +1,13 @@
-discopython(End of development)
-==============
+
 
 We are pleased to announce a new project. It is called "disbot.py".
 ====================
 disbot.py is not a Fork project of discord.py.
 ====================
+`\@LasteSoft/disbot.py <https://github.com/LasteSoft/disbot.py>`_
+====================
+discopython(End of development)
+==============
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
 
